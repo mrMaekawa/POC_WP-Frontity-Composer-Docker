@@ -1,0 +1,9 @@
+{
+	"description": "POC - Wordpress + Frontity + Composer + Docker",
+	"require": {
+		"johnpbloch/wordpress": "5.8.*"
+	},
+	"extra": {
+		"wordpress-install-dir": "wp"
+	}
+}
